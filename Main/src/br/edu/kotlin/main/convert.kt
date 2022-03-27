@@ -1,5 +1,4 @@
 package br.edu.kotlin.main
-fun teste(n1: Long) {}
 
 fun main() {
     val n1: Byte = Byte.MAX_VALUE
